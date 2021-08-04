@@ -1,1 +1,6 @@
-console.log('Stack')
+class Stack {
+    constructor() {}
+    push(){}
+    pop(){}
+    peek(){}
+}
