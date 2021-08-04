@@ -1,6 +1,6 @@
 {
   "name": "mystackjs",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Mohammadalikazemi/mystackjs/issues"
   },
-  "homepage": "https://github.com/Mohammadalikazemi/mystackjs#readme"
+  "homepage": "https://github.com/Mohammadalikazemi/mystackjs#readme",
+  "keywords": [
+    "push",
+    "pop"
+  ]
 }
